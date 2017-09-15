@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1505493582 source:c:\users\adity\workspaceforcpp\hehe\main.c
+	<stdio.h>
+	<Find.h>
+	<xcm.h>
+	<conio.h>
+
+1503302645 c:\users\adity\workspaceforcpp\hehe\include\xcm.h
+
+1505490342 source:c:\users\adity\workspaceforcpp\hehe\xcm.c
+	"xcm.h"
+	<stdlib.h>
+
+1505496060 source:c:\users\adity\workspaceforcpp\hehe\dijkstra.c
+	"dijkstra.h"
+	<stdio.h>
+	<limits.h>
+
+1505495876 c:\users\adity\workspaceforcpp\hehe\include\dijkstra.h
+
+1505495957 source:c:\users\adity\workspaceforcpp\hehe\find.c
+	"Find.h"
+	<dijkstra.h>
+	<string.h>
+
+1505493432 c:\users\adity\workspaceforcpp\hehe\include\find.h
+
