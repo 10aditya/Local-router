@@ -40,8 +40,60 @@ void findDests(char **stations, char *s){
 
 void setDest(int n){
     destination=DestResultsIndex[n-1];
-};
+}
 
 void routeIT(int** p){
     dijkstra(p, source, destination, stat);
+}
+
+void printWC(){
+    int i;
+
+    for(i=0; i<=21; i++){
+        printf("*");
+    }
+
+    printf("\n");
+
+    for(i=0; i<7; i++){
+        printf("*");
+    }
+
+    printf("WELCOME");
+
+    for(i=0; i<=7; i++){
+        printf("*");
+    }
+
+    printf("\n");
+
+    for(i=0; i<=9; i++){
+        printf("*");
+    }
+
+    printf("TO");
+
+    for(i=0; i<=9; i++){
+        printf("*");
+    }
+
+    printf("\n");
+
+    for(i=0; i<=4; i++){
+        printf("*");
+    }
+
+    printf("LOCAL ROUTER");
+
+    for(i=0; i<=4; i++){
+        printf("*");
+    }
+
+    printf("\n");
+
+    for(i=0; i<=21; i++){
+        printf("*");
+    }
+
+    printf("\n");
 }

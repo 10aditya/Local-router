@@ -8,53 +8,7 @@ int main(){
     int **p=getGraph();
     char **stations = getStations();
 
-    for(i=0; i<=21; i++){
-        printf("*");
-    }
-
-    printf("\n");
-
-    for(i=0; i<7; i++){
-        printf("*");
-    }
-
-    printf("WELCOME");
-
-    for(i=0; i<=7; i++){
-        printf("*");
-    }
-
-    printf("\n");
-
-    for(i=0; i<=9; i++){
-        printf("*");
-    }
-
-    printf("TO");
-
-    for(i=0; i<=9; i++){
-        printf("*");
-    }
-
-    printf("\n");
-
-    for(i=0; i<=4; i++){
-        printf("*");
-    }
-
-    printf("LOCAL ROUTER");
-
-    for(i=0; i<=4; i++){
-        printf("*");
-    }
-
-    printf("\n");
-
-    for(i=0; i<=21; i++){
-        printf("*");
-    }
-
-    printf("\n");
+    printWC();
     //do{
         printf("\nEnter first two letters of your source station :\n");
         fflush(NULL);

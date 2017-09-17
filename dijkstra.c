@@ -27,9 +27,7 @@ void printPath(int parent[], int j){
 
 int printSolution(int dist[], int se, int n, int parent[], int dest){
     int src = se;
-    printf("Vertex\t  Distance\tPath");
-
-        printf("\n%d -> %d \t\t %d\t\t%d\n", src, dest, dist[dest], src);
+    printf("Total distance to be traveled: %d KM\n", dist[dest]);
         printf("%s",stations[src]);
         printPath(parent, dest);
 
