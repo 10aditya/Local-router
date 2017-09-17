@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1505493582 source:c:\users\adity\workspaceforcpp\hehe\main.c
+1505657465 source:c:\users\adity\workspaceforcpp\hehe\main.c
 	<stdio.h>
 	<Find.h>
 	<xcm.h>
@@ -11,7 +11,7 @@
 	"xcm.h"
 	<stdlib.h>
 
-1505496060 source:c:\users\adity\workspaceforcpp\hehe\dijkstra.c
+1505496160 source:c:\users\adity\workspaceforcpp\hehe\dijkstra.c
 	"dijkstra.h"
 	<stdio.h>
 	<limits.h>

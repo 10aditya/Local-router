@@ -132,7 +132,7 @@ char** getStations(){
 char *Stations[]={"Churchgate","Marine Lines","Charni Road","Grant Road","Mumbai Central","Mahalaxmi","Lower Parel","Elphistone Road","Dadar",
 "Matunga(W)","Mahim","Bandra","Khar Road","Santacruz","Vile Parle","Andheri","Jogeshwari","Ram Mandir","Gorgaon","Malad","Kandivali",
 "Borivali","Dahisar","Mira Road","Bhayandar","Naigaon","Vasai Road","NallaSopara","Virar","Vaitarna","Saphale","Kelve Road","Palghar",
-"Umroli","Boisar","Vangaon","Dahanu Road","Mumbai CST","Masjit Bander","Sandhurst Road","Dockyard Road","Reay Road","Cotton Green",
+"Umroli","Boisar","Vangaon","Dahanu Road","CST","Masjit Bander","Sandhurst Road","Dockyard Road","Reay Road","Cotton Green",
 "Sewri","Vadala","King's Circle","GTB Nagar","Chuna Bhatti","Kurla","Tilak Nagar","Chembur","Govandi","Mankhurd","Vashi","Sanpada",
 "Jui Nagar","Nerul","Seawood Darave","Belapur","Kharghar","Manasarovar","Khandeshwar","Panvel","Byculla","Chinchpokali","Currey Rd",
 "Parel","Matunga (E)","Sion","Vidya Vihar","Ghatkopar","Vikhroli","Kanjur Marg","Bhandup","Nahur","Mulund","Thane","Kalwa","Mumbra",
